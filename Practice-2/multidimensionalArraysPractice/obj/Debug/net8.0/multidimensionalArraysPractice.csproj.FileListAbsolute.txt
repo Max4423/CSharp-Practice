@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\bin\Debug\net8.0\multidimensionalArraysPractice.exe
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\bin\Debug\net8.0\multidimensionalArraysPractice.deps.json
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\bin\Debug\net8.0\multidimensionalArraysPractice.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\bin\Debug\net8.0\multidimensionalArraysPractice.dll
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\bin\Debug\net8.0\multidimensionalArraysPractice.pdb
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.dll
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\refint\multidimensionalArraysPractice.dll
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.pdb
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\multidimensionalArraysPractice.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-2\multidimensionalArraysPractice\obj\Debug\net8.0\ref\multidimensionalArraysPractice.dll

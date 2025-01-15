@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02113A-5E3B-4C7E-ACA8-DA487E090DC9}|Switch expressions my\\Switch expressions my.csproj|c:\\users\\miksi\\desktop\\c#\\methods\\switch expressions my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC02113A-5E3B-4C7E-ACA8-DA487E090DC9}|Switch expressions my\\Switch expressions my.csproj|solutionrelative:switch expressions my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005AFF7E-7FE1-4E35-8A1B-FA6037DF04FB}|SwitchExpressions\\SwitchExpressions.csproj|c:\\users\\miksi\\desktop\\c#\\methods\\switchexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005AFF7E-7FE1-4E35-8A1B-FA6037DF04FB}|SwitchExpressions\\SwitchExpressions.csproj|solutionrelative:switchexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44E76DF-C15C-4A4F-A061-5708622704D1}|RefOut\\RefOut.csproj|c:\\users\\miksi\\desktop\\c#\\methods\\refout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44E76DF-C15C-4A4F-A061-5708622704D1}|RefOut\\RefOut.csproj|solutionrelative:refout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9E5718-C4F7-4606-A573-F6F6ED94C011}|Methods\\Methods.csproj|c:\\users\\miksi\\desktop\\c#\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9E5718-C4F7-4606-A573-F6F6ED94C011}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\Switch expressions my\\Program.cs",
+              "RelativeDocumentMoniker": "Switch expressions my\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\Switch expressions my\\Program.cs*",
+              "RelativeToolTip": "Switch expressions my\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:56:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\SwitchExpressions\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchExpressions\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\SwitchExpressions\\Program.cs",
+              "RelativeToolTip": "SwitchExpressions\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:46:38.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\RefOut\\Program.cs",
+              "RelativeDocumentMoniker": "RefOut\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\RefOut\\Program.cs",
+              "RelativeToolTip": "RefOut\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:28:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Methods\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:11:42.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.exe
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.deps.json
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.pdb
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\refint\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.pdb
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\ref\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.exe
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.deps.json
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.runtimeconfig.json
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\bin\Debug\net9.0\JaggedArraysPractice.pdb
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\refint\JaggedArraysPractice.dll
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.pdb
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\JaggedArraysPractice.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C# Learning\JaggedArraysPractice\JaggedArraysPractice\obj\Debug\net9.0\ref\JaggedArraysPractice.dll

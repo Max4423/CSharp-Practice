@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\bin\Debug\net8.0\Dicrionary.exe
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\bin\Debug\net8.0\Dicrionary.deps.json
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\bin\Debug\net8.0\Dicrionary.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\bin\Debug\net8.0\Dicrionary.dll
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\bin\Debug\net8.0\Dicrionary.pdb
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.dll
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\refint\Dicrionary.dll
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.pdb
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\Dicrionary.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\PracticeCollections\Dicrionary\obj\Debug\net8.0\ref\Dicrionary.dll

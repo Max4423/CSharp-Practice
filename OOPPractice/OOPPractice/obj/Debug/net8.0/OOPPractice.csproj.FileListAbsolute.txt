@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\bin\Debug\net8.0\OOPPractice.exe
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\bin\Debug\net8.0\OOPPractice.deps.json
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\bin\Debug\net8.0\OOPPractice.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\bin\Debug\net8.0\OOPPractice.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\bin\Debug\net8.0\OOPPractice.pdb
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\refint\OOPPractice.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.pdb
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\OOPPractice.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\OOPPractice\obj\Debug\net8.0\ref\OOPPractice.dll

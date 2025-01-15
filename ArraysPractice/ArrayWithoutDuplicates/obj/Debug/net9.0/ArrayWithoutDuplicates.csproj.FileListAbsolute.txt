@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\bin\Debug\net9.0\ArrayWithoutDuplicates.exe
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\bin\Debug\net9.0\ArrayWithoutDuplicates.deps.json
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\bin\Debug\net9.0\ArrayWithoutDuplicates.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\bin\Debug\net9.0\ArrayWithoutDuplicates.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\bin\Debug\net9.0\ArrayWithoutDuplicates.pdb
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\refint\ArrayWithoutDuplicates.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.pdb
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ArrayWithoutDuplicates.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArrayWithoutDuplicates\obj\Debug\net9.0\ref\ArrayWithoutDuplicates.dll

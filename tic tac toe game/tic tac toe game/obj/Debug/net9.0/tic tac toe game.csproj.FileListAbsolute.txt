@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\bin\Debug\net9.0\tic tac toe game.exe
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\bin\Debug\net9.0\tic tac toe game.deps.json
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\bin\Debug\net9.0\tic tac toe game.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\bin\Debug\net9.0\tic tac toe game.dll
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\bin\Debug\net9.0\tic tac toe game.pdb
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.dll
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\refint\tic tac toe game.dll
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.pdb
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\tic tac toe game.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\tic tac toe game\tic tac toe game\obj\Debug\net9.0\ref\tic tac toe game.dll

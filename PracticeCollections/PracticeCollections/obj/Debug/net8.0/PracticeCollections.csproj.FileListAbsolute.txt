@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\bin\Debug\net8.0\PracticeCollections.exe
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\bin\Debug\net8.0\PracticeCollections.deps.json
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\bin\Debug\net8.0\PracticeCollections.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\bin\Debug\net8.0\PracticeCollections.dll
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\bin\Debug\net8.0\PracticeCollections.pdb
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.dll
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\refint\PracticeCollections.dll
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.pdb
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\PracticeCollections.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\PracticeCollections\PracticeCollections\obj\Debug\net8.0\ref\PracticeCollections.dll

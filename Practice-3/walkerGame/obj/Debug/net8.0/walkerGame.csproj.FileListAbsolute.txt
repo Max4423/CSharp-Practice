@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\bin\Debug\net8.0\walkerGame.exe
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\bin\Debug\net8.0\walkerGame.deps.json
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\bin\Debug\net8.0\walkerGame.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\bin\Debug\net8.0\walkerGame.dll
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\bin\Debug\net8.0\walkerGame.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.dll
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\refint\walkerGame.dll
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\walkerGame.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-3\walkerGame\obj\Debug\net8.0\ref\walkerGame.dll

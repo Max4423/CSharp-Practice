@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5208-9BEF-467C-88D4-7B7891FFCB71}|LibraryProject\\LibraryProject.csproj|c:\\users\\miksi\\desktop\\c# learning\\jaggedarrayspractice\\libraryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5208-9BEF-467C-88D4-7B7891FFCB71}|LibraryProject\\LibraryProject.csproj|solutionrelative:libraryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74660672-A462-485D-9FFF-BAEF931D21FA}|CinemaProject\\CinemaProject.csproj|c:\\users\\miksi\\desktop\\c# learning\\jaggedarrayspractice\\cinemaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74660672-A462-485D-9FFF-BAEF931D21FA}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA4D11C-5EA5-4AFC-8954-8FB43F1B5683}|JaggedArraysPractice\\JaggedArraysPractice.csproj|c:\\users\\miksi\\desktop\\c# learning\\jaggedarrayspractice\\jaggedarrayspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA4D11C-5EA5-4AFC-8954-8FB43F1B5683}|JaggedArraysPractice\\JaggedArraysPractice.csproj|solutionrelative:jaggedarrayspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\Program.cs*",
+              "RelativeToolTip": "LibraryProject\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:16:35.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\CinemaProject\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaProject\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\CinemaProject\\Program.cs",
+              "RelativeToolTip": "CinemaProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:55:25.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\JaggedArraysPractice\\Program.cs",
+              "RelativeDocumentMoniker": "JaggedArraysPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\JaggedArraysPractice\\Program.cs",
+              "RelativeToolTip": "JaggedArraysPractice\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:26:45.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

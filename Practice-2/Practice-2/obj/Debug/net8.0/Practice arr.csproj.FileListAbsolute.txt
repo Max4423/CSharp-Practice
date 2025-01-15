@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\bin\Debug\net8.0\Practice arr.exe
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\bin\Debug\net8.0\Practice arr.deps.json
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\bin\Debug\net8.0\Practice arr.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\bin\Debug\net8.0\Practice arr.dll
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\bin\Debug\net8.0\Practice arr.pdb
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.dll
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\refint\Practice arr.dll
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.pdb
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\Practice arr.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-2\Practice-2\obj\Debug\net8.0\ref\Practice arr.dll

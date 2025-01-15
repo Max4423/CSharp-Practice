@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "JaggedArraysPractice/1.0.0": {
+        "runtime": {
+          "JaggedArraysPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JaggedArraysPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

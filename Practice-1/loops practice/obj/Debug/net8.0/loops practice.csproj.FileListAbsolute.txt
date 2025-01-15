@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\bin\Debug\net8.0\loops practice.exe
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\bin\Debug\net8.0\loops practice.deps.json
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\bin\Debug\net8.0\loops practice.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\bin\Debug\net8.0\loops practice.dll
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\bin\Debug\net8.0\loops practice.pdb
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.dll
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\refint\loops practice.dll
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.pdb
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\loops practice.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-1\loops practice\obj\Debug\net8.0\ref\loops practice.dll

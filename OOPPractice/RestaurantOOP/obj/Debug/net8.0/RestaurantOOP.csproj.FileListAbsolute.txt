@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\bin\Debug\net8.0\RestaurantOOP.exe
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\bin\Debug\net8.0\RestaurantOOP.deps.json
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\bin\Debug\net8.0\RestaurantOOP.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\bin\Debug\net8.0\RestaurantOOP.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\bin\Debug\net8.0\RestaurantOOP.pdb
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\refint\RestaurantOOP.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.pdb
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\RestaurantOOP.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\RestaurantOOP\obj\Debug\net8.0\ref\RestaurantOOP.dll

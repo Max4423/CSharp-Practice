@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\bin\Debug\net8.0\ArrPractice.exe
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\bin\Debug\net8.0\ArrPractice.deps.json
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\bin\Debug\net8.0\ArrPractice.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\bin\Debug\net8.0\ArrPractice.dll
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\bin\Debug\net8.0\ArrPractice.pdb
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.dll
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\refint\ArrPractice.dll
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.pdb
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ArrPractice.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-2\ArrPractice\obj\Debug\net8.0\ref\ArrPractice.dll

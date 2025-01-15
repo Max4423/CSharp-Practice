@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\bin\Debug\net9.0\Switch expressions my.exe
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\bin\Debug\net9.0\Switch expressions my.deps.json
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\bin\Debug\net9.0\Switch expressions my.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\bin\Debug\net9.0\Switch expressions my.dll
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\bin\Debug\net9.0\Switch expressions my.pdb
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.dll
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\refint\Switch expressions my.dll
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.pdb
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\Switch expressions my.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Methods\Switch expressions my\obj\Debug\net9.0\ref\Switch expressions my.dll

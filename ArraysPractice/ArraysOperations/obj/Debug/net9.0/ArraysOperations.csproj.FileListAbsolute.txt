@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\bin\Debug\net9.0\ArraysOperations.exe
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\bin\Debug\net9.0\ArraysOperations.deps.json
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\bin\Debug\net9.0\ArraysOperations.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\bin\Debug\net9.0\ArraysOperations.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\bin\Debug\net9.0\ArraysOperations.pdb
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\refint\ArraysOperations.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.pdb
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ArraysOperations.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysOperations\obj\Debug\net9.0\ref\ArraysOperations.dll

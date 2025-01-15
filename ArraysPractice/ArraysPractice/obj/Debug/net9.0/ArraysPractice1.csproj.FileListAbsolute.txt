@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\bin\Debug\net9.0\ArraysPractice1.exe
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\bin\Debug\net9.0\ArraysPractice1.deps.json
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\bin\Debug\net9.0\ArraysPractice1.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\bin\Debug\net9.0\ArraysPractice1.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\bin\Debug\net9.0\ArraysPractice1.pdb
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\refint\ArraysPractice1.dll
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.pdb
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ArraysPractice1.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ArraysPractice\ArraysPractice\obj\Debug\net9.0\ref\ArraysPractice1.dll

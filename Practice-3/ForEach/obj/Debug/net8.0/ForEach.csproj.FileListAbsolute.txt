@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-3\ForEach\obj\Debug\net8.0\ref\ForEach.dll

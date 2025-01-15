@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\bin\Debug\net8.0\HealthBar.exe
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\bin\Debug\net8.0\HealthBar.deps.json
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\bin\Debug\net8.0\HealthBar.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\bin\Debug\net8.0\HealthBar.dll
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\bin\Debug\net8.0\HealthBar.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.dll
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\refint\HealthBar.dll
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\HealthBar.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-3\HealthBar1\obj\Debug\net8.0\ref\HealthBar.dll

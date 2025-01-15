@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.exe
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.deps.json
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.dll
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\bin\Debug\net8.0\ReferenceDataTypes.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.dll
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\refint\ReferenceDataTypes.dll
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.pdb
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ReferenceDataTypes.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-3\ReferenceDataTypes\obj\Debug\net8.0\ref\ReferenceDataTypes.dll

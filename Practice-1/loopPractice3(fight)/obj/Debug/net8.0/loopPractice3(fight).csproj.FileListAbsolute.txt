@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\bin\Debug\net8.0\loopPractice3(fight).exe
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\bin\Debug\net8.0\loopPractice3(fight).deps.json
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\bin\Debug\net8.0\loopPractice3(fight).runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\bin\Debug\net8.0\loopPractice3(fight).dll
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\bin\Debug\net8.0\loopPractice3(fight).pdb
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).dll
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\refint\loopPractice3(fight).dll
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).pdb
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\loopPractice3(fight).genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Practice-1\loopPractice3(fight)\obj\Debug\net8.0\ref\loopPractice3(fight).dll

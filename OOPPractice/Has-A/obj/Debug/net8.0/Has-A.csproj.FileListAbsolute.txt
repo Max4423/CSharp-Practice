@@ -1,0 +1,14 @@
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\bin\Debug\net8.0\Has-A.exe
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\bin\Debug\net8.0\Has-A.deps.json
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\bin\Debug\net8.0\Has-A.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\bin\Debug\net8.0\Has-A.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\bin\Debug\net8.0\Has-A.pdb
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\refint\Has-A.dll
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.pdb
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\Has-A.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPPractice\Has-A\obj\Debug\net8.0\ref\Has-A.dll
