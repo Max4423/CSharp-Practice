@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj": {}
+    "C:\\Users\\miksi\\Desktop\\C#\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj": {
+    "C:\\Users\\miksi\\Desktop\\C#\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj",
+        "projectUniqueName": "C:\\Users\\miksi\\Desktop\\C#\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj",
         "projectName": "LibraryProject",
-        "projectPath": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj",
+        "projectPath": "C:\\Users\\miksi\\Desktop\\C#\\JaggedArraysPractice\\LibraryProject\\LibraryProject.csproj",
         "packagesPath": "C:\\Users\\miksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miksi\\Desktop\\C# Learning\\JaggedArraysPractice\\LibraryProject\\obj\\",
+        "outputPath": "C:\\Users\\miksi\\Desktop\\C#\\JaggedArraysPractice\\LibraryProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
