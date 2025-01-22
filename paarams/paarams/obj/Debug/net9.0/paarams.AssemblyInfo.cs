@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("paarams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3ea8e1f98c20d8c08c42772f86ddd084a7304df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea31853e5e53a40800e0ca040c78da9ebbafc96")]
 [assembly: System.Reflection.AssemblyProductAttribute("paarams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("paarams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

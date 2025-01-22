@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\bin\Debug\net9.0\ArrayResizing.exe
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\bin\Debug\net9.0\ArrayResizing.deps.json
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\bin\Debug\net9.0\ArrayResizing.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\bin\Debug\net9.0\ArrayResizing.dll
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\bin\Debug\net9.0\ArrayResizing.pdb
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.sourcelink.json
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.dll
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\refint\ArrayResizing.dll
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.pdb
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ArrayResizing.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ArrayResizing\ArrayResizing\obj\Debug\net9.0\ref\ArrayResizing.dll

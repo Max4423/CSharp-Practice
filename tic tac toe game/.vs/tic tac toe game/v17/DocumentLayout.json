@@ -14,19 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -41,6 +33,10 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "tic tac toe game\\Program.cs",
               "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\tic tac toe game\\tic tac toe game\\Program.cs",
               "RelativeToolTip": "tic tac toe game\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwDQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T15:49:56.043Z",
               "EditorCaption": ""
