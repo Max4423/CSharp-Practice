@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.sourcelink.json
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\bin\Debug\net9.0\Recursion.exe
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\bin\Debug\net9.0\Recursion.deps.json
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\bin\Debug\net9.0\Recursion.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\bin\Debug\net9.0\Recursion.dll
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\bin\Debug\net9.0\Recursion.pdb
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.dll
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\refint\Recursion.dll
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.pdb
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\Recursion.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Recursion\Recursion\obj\Debug\net9.0\ref\Recursion.dll
