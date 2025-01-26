@@ -31,6 +31,7 @@
             int result = SumOfDigits(value);
 			Console.WriteLine(result);
 			Console.WriteLine(SumOfDigitsLoop(value));
-        }
+
+		}
     }
 }
