@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\bin\Debug\net9.0\Access Modifiers.exe
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\bin\Debug\net9.0\Access Modifiers.deps.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\bin\Debug\net9.0\Access Modifiers.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\bin\Debug\net9.0\Access Modifiers.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\bin\Debug\net9.0\Access Modifiers.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.sourcelink.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\refint\Access Modifiers.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\Access Modifiers.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Access Modifiers\obj\Debug\net9.0\ref\Access Modifiers.dll

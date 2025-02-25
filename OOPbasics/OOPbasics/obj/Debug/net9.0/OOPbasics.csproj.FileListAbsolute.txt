@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\bin\Debug\net9.0\OOPbasics.exe
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\bin\Debug\net9.0\OOPbasics.deps.json
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\bin\Debug\net9.0\OOPbasics.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\bin\Debug\net9.0\OOPbasics.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\bin\Debug\net9.0\OOPbasics.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.sourcelink.json
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\refint\OOPbasics.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\ref\OOPbasics.dll
