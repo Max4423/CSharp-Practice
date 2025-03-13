@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E424DB0-36C6-4946-9998-A75A7E35A00B}|GetSet\\GetSet.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\getset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E424DB0-36C6-4946-9998-A75A7E35A00B}|GetSet\\GetSet.csproj|solutionrelative:getset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D36034B-4A53-47C2-A964-E2B5259BA949}|Extention Methods\\Extention Methods.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\extention methods\\datetimeextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36034B-4A53-47C2-A964-E2B5259BA949}|Extention Methods\\Extention Methods.csproj|solutionrelative:extention methods\\datetimeextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FC14C40-A03D-4FD9-A79A-A1FE213B5A2E}|Access Modifiers\\Access Modifiers.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\access modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FC14C40-A03D-4FD9-A79A-A1FE213B5A2E}|Access Modifiers\\Access Modifiers.csproj|solutionrelative:access modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D36034B-4A53-47C2-A964-E2B5259BA949}|Extention Methods\\Extention Methods.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\extention methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36034B-4A53-47C2-A964-E2B5259BA949}|Extention Methods\\Extention Methods.csproj|solutionrelative:extention methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{772C44FD-1F90-43E0-AD36-DCC7ECAA7D09}|Car\\Car.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{772C44FD-1F90-43E0-AD36-DCC7ECAA7D09}|Car\\Car.csproj|solutionrelative:car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D36034B-4A53-47C2-A964-E2B5259BA949}|Extention Methods\\Extention Methods.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\extention methods\\extention methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D36034B-4A53-47C2-A964-E2B5259BA949}|Extention Methods\\Extention Methods.csproj|solutionrelative:extention methods\\extention methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAD5B3E-988A-4A4C-AF52-A5ABB80D40F1}|OOPbasics\\OOPbasics.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\oopbasics\\oopbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9BAD5B3E-988A-4A4C-AF52-A5ABB80D40F1}|OOPbasics\\OOPbasics.csproj|solutionrelative:oopbasics\\oopbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B041FED5-9EFE-462A-BAC4-B5BC26E660AD}|AbstractClasses\\AbstractClasses.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B041FED5-9EFE-462A-BAC4-B5BC26E660AD}|AbstractClasses\\AbstractClasses.csproj|solutionrelative:abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BAD5B3E-988A-4A4C-AF52-A5ABB80D40F1}|OOPbasics\\OOPbasics.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\oopbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BAD5B3E-988A-4A4C-AF52-A5ABB80D40F1}|OOPbasics\\OOPbasics.csproj|solutionrelative:oopbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E3046DB-1295-4628-BB06-1C9AAEBD5D34}|Protected\\Protected.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\protected\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3046DB-1295-4628-BB06-1C9AAEBD5D34}|Protected\\Protected.csproj|solutionrelative:protected\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C39D7-4126-48AF-B5E2-042B00DF2F7E}|base\\BaseKeyWord.csproj|c:\\users\\miksi\\desktop\\c#\\oopbasics\\base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113C39D7-4126-48AF-B5E2-042B00DF2F7E}|base\\BaseKeyWord.csproj|solutionrelative:base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateTimeExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Extention Methods\\DateTimeExtentions.cs",
+              "RelativeDocumentMoniker": "Extention Methods\\DateTimeExtentions.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Extention Methods\\DateTimeExtentions.cs",
+              "RelativeToolTip": "Extention Methods\\DateTimeExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:16:42.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Extention Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Extention Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Extention Methods\\Program.cs",
+              "RelativeToolTip": "Extention Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:16:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extention Methods",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Extention Methods\\Extention Methods.csproj",
+              "RelativeDocumentMoniker": "Extention Methods\\Extention Methods.csproj",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Extention Methods\\Extention Methods.csproj",
+              "RelativeToolTip": "Extention Methods\\Extention Methods.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T23:16:31.044Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -54,64 +97,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\GetSet\\Program.cs",
-              "RelativeDocumentMoniker": "GetSet\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\GetSet\\Program.cs",
-              "RelativeToolTip": "GetSet\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:19:57.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Car\\Program.cs",
-              "RelativeDocumentMoniker": "Car\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Car\\Program.cs",
-              "RelativeToolTip": "Car\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T19:36:55.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Access Modifiers\\Program.cs",
-              "RelativeDocumentMoniker": "Access Modifiers\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Access Modifiers\\Program.cs",
-              "RelativeToolTip": "Access Modifiers\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:23:14.655Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OOPbasics.csproj",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\OOPbasics\\OOPbasics.csproj",
-              "RelativeDocumentMoniker": "OOPbasics\\OOPbasics.csproj",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\OOPbasics\\OOPbasics.csproj",
-              "RelativeToolTip": "OOPbasics\\OOPbasics.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-21T21:21:59.773Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\Program.cs",
+              "RelativeToolTip": "AbstractClasses\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:57:11.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\OOPbasics\\Program.cs",
-              "RelativeDocumentMoniker": "OOPbasics\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\OOPbasics\\Program.cs",
-              "RelativeToolTip": "OOPbasics\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Protected\\Program.cs",
+              "RelativeDocumentMoniker": "Protected\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\Protected\\Program.cs",
+              "RelativeToolTip": "Protected\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T21:21:56.738Z"
+              "WhenOpened": "2025-03-12T20:31:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\base\\Program.cs",
+              "RelativeDocumentMoniker": "base\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\base\\Program.cs",
+              "RelativeToolTip": "base\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:11:58.221Z",
+              "EditorCaption": ""
             }
           ]
         },
