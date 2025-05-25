@@ -22,6 +22,7 @@
 			Console.WriteLine("SHOT FROM GUN!");
 		}
 
+		
 
 	}
 
@@ -60,7 +61,13 @@
 			{
 				player.Fire(weap);
 				player.CheckInfo(weap);
+
+
+				int a = 12;
+				Console.WriteLine(a.GetType());
+				
 			}
+
 		}
 	}
 }

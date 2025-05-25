@@ -35,6 +35,7 @@
 		{
 			Gun gun = new Gun(true);
 			gun.Shot();
+
 		}
 	}
 }

@@ -44,6 +44,15 @@ namespace Car
 		{
 			Console.WriteLine($"{make} {model} {year} {color} {engineSize} ");
 		}
+
+		public void Deconstruct(out string make, out string model, out int year, out string color, out double? engineSize)
+		{
+			make = this.make;
+			model = this.model;
+			year = this.year;
+			color = this.color;
+			engineSize = this.engineSize;
+		}
 	}
 	internal class Program
 	{
@@ -63,6 +72,11 @@ namespace Car
 			bmw3.year = 2025;
 			bmw3.PrintInfo();
 			bmw.PrintInfo();
+
+
+			mercedes.Deconstruct(out string make, out string model, out int year, out string color, out double? engineSize);
+			Console.WriteLine(make);
+			Console.WriteLine(engineSize);
 
 		}
 	}

@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\bin\Release\net9.0\GenericsMetanit.exe
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\bin\Release\net9.0\GenericsMetanit.deps.json
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\bin\Release\net9.0\GenericsMetanit.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\bin\Release\net9.0\GenericsMetanit.dll
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\bin\Release\net9.0\GenericsMetanit.pdb
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.sourcelink.json
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.dll
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\refint\GenericsMetanit.dll
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.pdb
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\GenericsMetanit.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\Generica\GenericsMetanit\obj\Release\net9.0\ref\GenericsMetanit.dll

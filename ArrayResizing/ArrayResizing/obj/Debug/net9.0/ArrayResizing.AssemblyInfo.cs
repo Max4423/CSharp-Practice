@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayResizing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea31853e5e53a40800e0ca040c78da9ebbafc96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2eb3cbf3ac40ad6ebfa8704cc2a5f8085bf63c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayResizing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayResizing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

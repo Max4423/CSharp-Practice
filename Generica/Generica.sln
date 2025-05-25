@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generica\Generics.csproj", "{3AAFAF1E-1197-4970-BDE9-B906A012A477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Collections", "Generics2\Generic Collections.csproj", "{E82DA776-4ECE-4FA1-A1DD-A2AA80CD7623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{99E57579-2451-4B59-BE5E-2C51E1C94C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsMetanit", "GenericsMetanit\GenericsMetanit.csproj", "{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics Constraints", "Generics Constraints\Generics Constraints.csproj", "{92CA3199-03CD-4605-A79A-3A016ED8F098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics Inheritance", "Generics Inheritance\Generics Inheritance.csproj", "{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AAFAF1E-1197-4970-BDE9-B906A012A477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAFAF1E-1197-4970-BDE9-B906A012A477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAFAF1E-1197-4970-BDE9-B906A012A477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAFAF1E-1197-4970-BDE9-B906A012A477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82DA776-4ECE-4FA1-A1DD-A2AA80CD7623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82DA776-4ECE-4FA1-A1DD-A2AA80CD7623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82DA776-4ECE-4FA1-A1DD-A2AA80CD7623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82DA776-4ECE-4FA1-A1DD-A2AA80CD7623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E57579-2451-4B59-BE5E-2C51E1C94C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E57579-2451-4B59-BE5E-2C51E1C94C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E57579-2451-4B59-BE5E-2C51E1C94C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E57579-2451-4B59-BE5E-2C51E1C94C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CA3199-03CD-4605-A79A-3A016ED8F098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CA3199-03CD-4605-A79A-3A016ED8F098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CA3199-03CD-4605-A79A-3A016ED8F098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CA3199-03CD-4605-A79A-3A016ED8F098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB48F241-3E80-49CA-A8E5-9939D16C6B78}
+	EndGlobalSection
+EndGlobal

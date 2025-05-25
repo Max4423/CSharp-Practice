@@ -13,3 +13,6 @@ C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\refint\OOPbasics.
 C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.pdb
 C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.genruntimeconfig.cache
 C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\ref\OOPbasics.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.csproj.AssemblyReference.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\OOPbasics\obj\Debug\net9.0\OOPbasics.csproj.Up2Date

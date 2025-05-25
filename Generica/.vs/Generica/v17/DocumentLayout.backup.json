@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}|Generics Inheritance\\Generics Inheritance.csproj|c:\\users\\miksi\\desktop\\c#\\generica\\generics inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}|Generics Inheritance\\Generics Inheritance.csproj|solutionrelative:generics inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CA3199-03CD-4605-A79A-3A016ED8F098}|Generics Constraints\\Generics Constraints.csproj|c:\\users\\miksi\\desktop\\c#\\generica\\generics constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CA3199-03CD-4605-A79A-3A016ED8F098}|Generics Constraints\\Generics Constraints.csproj|solutionrelative:generics constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}|GenericsMetanit\\GenericsMetanit.csproj|c:\\users\\miksi\\desktop\\c#\\generica\\genericsmetanit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}|GenericsMetanit\\GenericsMetanit.csproj|solutionrelative:genericsmetanit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Generics Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Inheritance\\Program.cs",
+              "RelativeToolTip": "Generics Inheritance\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:48:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Constraints\\Program.cs",
+              "RelativeDocumentMoniker": "Generics Constraints\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Constraints\\Program.cs",
+              "RelativeToolTip": "Generics Constraints\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:00:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\GenericsMetanit\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsMetanit\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\GenericsMetanit\\Program.cs",
+              "RelativeToolTip": "GenericsMetanit\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:36:24.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\bin\Debug\net9.0\Weapon_Interfaces.exe
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\bin\Debug\net9.0\Weapon_Interfaces.deps.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\bin\Debug\net9.0\Weapon_Interfaces.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\bin\Debug\net9.0\Weapon_Interfaces.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\bin\Debug\net9.0\Weapon_Interfaces.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.sourcelink.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\refint\Weapon_Interfaces.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\Weapon_Interfaces.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Weapon_Interfaces\obj\Debug\net9.0\ref\Weapon_Interfaces.dll

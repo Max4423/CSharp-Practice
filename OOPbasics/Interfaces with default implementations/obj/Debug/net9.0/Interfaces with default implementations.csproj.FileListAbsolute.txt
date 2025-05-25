@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\bin\Debug\net9.0\Interfaces with default implementations.exe
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\bin\Debug\net9.0\Interfaces with default implementations.deps.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\bin\Debug\net9.0\Interfaces with default implementations.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\bin\Debug\net9.0\Interfaces with default implementations.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\bin\Debug\net9.0\Interfaces with default implementations.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.sourcelink.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\refint\Interfaces with default implementations.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\Interfaces with default implementations.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Interfaces with default implementations\obj\Debug\net9.0\ref\Interfaces with default implementations.dll

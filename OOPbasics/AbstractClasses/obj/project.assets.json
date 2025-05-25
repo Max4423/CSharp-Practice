@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\AbstractClasses.csproj",
-      "projectName": "AbstractClasses",
-      "projectPath": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\AbstractClasses.csproj",
+      "projectUniqueName": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\Weapon_AstractClasses.csproj",
+      "projectName": "Weapon_AstractClasses",
+      "projectPath": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\Weapon_AstractClasses.csproj",
       "packagesPath": "C:\\Users\\miksi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\miksi\\Desktop\\C#\\OOPbasics\\AbstractClasses\\obj\\",
       "projectStyle": "PackageReference",
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\bin\Debug\net9.0\Null&Nullable.exe
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\bin\Debug\net9.0\Null&Nullable.deps.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\bin\Debug\net9.0\Null&Nullable.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\bin\Debug\net9.0\Null&Nullable.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\bin\Debug\net9.0\Null&Nullable.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.sourcelink.json
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\refint\Null&Nullable.dll
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.pdb
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\Null&Nullable.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\OOPbasics\Null&Nullable\obj\Debug\net9.0\ref\Null&Nullable.dll
