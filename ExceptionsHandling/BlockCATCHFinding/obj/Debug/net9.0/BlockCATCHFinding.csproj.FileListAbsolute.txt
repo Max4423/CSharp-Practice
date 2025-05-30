@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\bin\Debug\net9.0\BlockCATCHFinding.exe
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\bin\Debug\net9.0\BlockCATCHFinding.deps.json
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\bin\Debug\net9.0\BlockCATCHFinding.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\bin\Debug\net9.0\BlockCATCHFinding.dll
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\bin\Debug\net9.0\BlockCATCHFinding.pdb
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.sourcelink.json
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.dll
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\refint\BlockCATCHFinding.dll
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.pdb
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\BlockCATCHFinding.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\ExceptionsHandling\BlockCATCHFinding\obj\Debug\net9.0\ref\BlockCATCHFinding.dll

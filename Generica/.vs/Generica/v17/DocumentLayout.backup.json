@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{721EE4D2-2EAF-45CB-861B-00DF4CD6DB50}|Generics Inheritance\\Generics Inheritance.csproj|solutionrelative:generics inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CA3199-03CD-4605-A79A-3A016ED8F098}|Generics Constraints\\Generics Constraints.csproj|c:\\users\\miksi\\desktop\\c#\\generica\\generics constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CA3199-03CD-4605-A79A-3A016ED8F098}|Generics Constraints\\Generics Constraints.csproj|solutionrelative:generics constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}|GenericsMetanit\\GenericsMetanit.csproj|c:\\users\\miksi\\desktop\\c#\\generica\\genericsmetanit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBBE72DA-C9A6-4094-819F-C02683F4D6AD}|GenericsMetanit\\GenericsMetanit.csproj|solutionrelative:genericsmetanit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AAFAF1E-1197-4970-BDE9-B906A012A477}|Generica\\Generics.csproj|c:\\users\\miksi\\desktop\\c#\\generica\\generica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAFAF1E-1197-4970-BDE9-B906A012A477}|Generica\\Generics.csproj|solutionrelative:generica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,35 +48,22 @@
               "RelativeDocumentMoniker": "Generics Inheritance\\Program.cs",
               "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Inheritance\\Program.cs",
               "RelativeToolTip": "Generics Inheritance\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwEEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwEcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:48:35.385Z",
+              "WhenOpened": "2025-05-29T21:12:57.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Constraints\\Program.cs",
-              "RelativeDocumentMoniker": "Generics Constraints\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generics Constraints\\Program.cs",
-              "RelativeToolTip": "Generics Constraints\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBoAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generica\\Program.cs",
+              "RelativeDocumentMoniker": "Generica\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\Generica\\Program.cs",
+              "RelativeToolTip": "Generica\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:00:31.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\GenericsMetanit\\Program.cs",
-              "RelativeDocumentMoniker": "GenericsMetanit\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\Generica\\GenericsMetanit\\Program.cs",
-              "RelativeToolTip": "GenericsMetanit\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwD4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:36:24.748Z",
+              "WhenOpened": "2025-05-25T22:06:47.023Z",
               "EditorCaption": ""
             }
           ]

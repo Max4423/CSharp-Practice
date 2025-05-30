@@ -70,6 +70,7 @@ class Program
 		Person<string> person10 = new MixedPerson<string, int>("9867", 35678);
 		Console.WriteLine(person9.Id);
 		Console.WriteLine(person10.Id);
+
 	}
 }
 
