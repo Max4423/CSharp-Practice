@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\bin\Debug\net9.0\CounterToTimerCasting.exe
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\bin\Debug\net9.0\CounterToTimerCasting.deps.json
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\bin\Debug\net9.0\CounterToTimerCasting.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\bin\Debug\net9.0\CounterToTimerCasting.dll
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\bin\Debug\net9.0\CounterToTimerCasting.pdb
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.sourcelink.json
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.dll
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\refint\CounterToTimerCasting.dll
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.pdb
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\CounterToTimerCasting.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\operators definition\CounterToTimerCasting\obj\Debug\net9.0\ref\CounterToTimerCasting.dll

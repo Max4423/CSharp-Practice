@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICloneable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+923f639105df6f4910b424471177d5b7300ba657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+245b0b6b1a5f35add7f9771eda14c729f280aa66")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICloneable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICloneable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

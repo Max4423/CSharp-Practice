@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCA14148-2536-4924-A5E8-835BA90C73D7}|IEnumerable IEnumerator\\IEnumerable IEnumerator.csproj|c:\\users\\miksi\\desktop\\c#\\ienumerable ienumerator\\ienumerable ienumerator\\numbersequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA14148-2536-4924-A5E8-835BA90C73D7}|IEnumerable IEnumerator\\IEnumerable IEnumerator.csproj|solutionrelative:ienumerable ienumerator\\numbersequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA14148-2536-4924-A5E8-835BA90C73D7}|IEnumerable IEnumerator\\IEnumerable IEnumerator.csproj|c:\\users\\miksi\\desktop\\c#\\ienumerable ienumerator\\ienumerable ienumerator\\numberenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA14148-2536-4924-A5E8-835BA90C73D7}|IEnumerable IEnumerator\\IEnumerable IEnumerator.csproj|solutionrelative:ienumerable ienumerator\\numberenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCA14148-2536-4924-A5E8-835BA90C73D7}|IEnumerable IEnumerator\\IEnumerable IEnumerator.csproj|c:\\users\\miksi\\desktop\\c#\\ienumerable ienumerator\\ienumerable ienumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCA14148-2536-4924-A5E8-835BA90C73D7}|IEnumerable IEnumerator\\IEnumerable IEnumerator.csproj|solutionrelative:ienumerable ienumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,14 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NumberSequence.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\IEnumerable IEnumerator\\NumberSequence.cs",
+              "RelativeDocumentMoniker": "IEnumerable IEnumerator\\NumberSequence.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\IEnumerable IEnumerator\\NumberSequence.cs",
+              "RelativeToolTip": "IEnumerable IEnumerator\\NumberSequence.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:43:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\IEnumerable IEnumerator\\Program.cs",
               "RelativeDocumentMoniker": "IEnumerable IEnumerator\\Program.cs",
               "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\IEnumerable IEnumerator\\Program.cs",
               "RelativeToolTip": "IEnumerable IEnumerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T13:20:06.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\IEnumerable IEnumerator\\NumberEnumerator.cs",
+              "RelativeDocumentMoniker": "IEnumerable IEnumerator\\NumberEnumerator.cs",
+              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\IEnumerable IEnumerator\\IEnumerable IEnumerator\\NumberEnumerator.cs",
+              "RelativeToolTip": "IEnumerable IEnumerator\\NumberEnumerator.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:41:57.019Z",
               "EditorCaption": ""
             }
           ]

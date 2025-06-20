@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\bin\Debug\net9.0\StoreWithDelegate.exe
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\bin\Debug\net9.0\StoreWithDelegate.deps.json
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\bin\Debug\net9.0\StoreWithDelegate.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\bin\Debug\net9.0\StoreWithDelegate.dll
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\bin\Debug\net9.0\StoreWithDelegate.pdb
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.sourcelink.json
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.dll
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\refint\StoreWithDelegate.dll
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.pdb
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\StoreWithDelegate.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\delegates\StoreWithDelegate\obj\Debug\net9.0\ref\StoreWithDelegate.dll

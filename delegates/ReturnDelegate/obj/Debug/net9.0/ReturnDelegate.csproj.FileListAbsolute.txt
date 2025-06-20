@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\bin\Debug\net9.0\ReturnDelegate.exe
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\bin\Debug\net9.0\ReturnDelegate.deps.json
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\bin\Debug\net9.0\ReturnDelegate.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\bin\Debug\net9.0\ReturnDelegate.dll
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\bin\Debug\net9.0\ReturnDelegate.pdb
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.sourcelink.json
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.dll
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\refint\ReturnDelegate.dll
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.pdb
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ReturnDelegate.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\delegates\ReturnDelegate\obj\Debug\net9.0\ref\ReturnDelegate.dll

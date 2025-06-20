@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.sourcelink.json
+C:\Users\miksi\Desktop\C#\delegates\delegates\bin\Debug\net9.0\delegates.exe
+C:\Users\miksi\Desktop\C#\delegates\delegates\bin\Debug\net9.0\delegates.deps.json
+C:\Users\miksi\Desktop\C#\delegates\delegates\bin\Debug\net9.0\delegates.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\delegates\delegates\bin\Debug\net9.0\delegates.dll
+C:\Users\miksi\Desktop\C#\delegates\delegates\bin\Debug\net9.0\delegates.pdb
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.dll
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\refint\delegates.dll
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.pdb
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\delegates.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\delegates\delegates\obj\Debug\net9.0\ref\delegates.dll
