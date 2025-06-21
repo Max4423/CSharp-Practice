@@ -1,0 +1,15 @@
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.sourcelink.json
+C:\Users\miksi\Desktop\C#\indexers\Contacts\bin\Debug\net9.0\Contacts.exe
+C:\Users\miksi\Desktop\C#\indexers\Contacts\bin\Debug\net9.0\Contacts.deps.json
+C:\Users\miksi\Desktop\C#\indexers\Contacts\bin\Debug\net9.0\Contacts.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\indexers\Contacts\bin\Debug\net9.0\Contacts.dll
+C:\Users\miksi\Desktop\C#\indexers\Contacts\bin\Debug\net9.0\Contacts.pdb
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.dll
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\refint\Contacts.dll
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.pdb
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\Contacts.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\indexers\Contacts\obj\Debug\net9.0\ref\Contacts.dll
