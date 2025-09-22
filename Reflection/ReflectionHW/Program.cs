@@ -42,7 +42,6 @@ namespace ReflectionHW
 
 			Console.WriteLine(fieldInfo.GetValue(car));
 
-
 			Assembly assembly = Assembly.GetExecutingAssembly();
 			Type[] types = assembly.GetTypes();
 
@@ -59,5 +58,7 @@ namespace ReflectionHW
 			}
 		}
 
+
+	
 	}
 }
