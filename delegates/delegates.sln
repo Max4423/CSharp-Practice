@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncActionPredicate", "FuncActionPredicate\FuncActionPredicate.csproj", "{1B5D478B-AE70-445E-9FDE-5C2D37BBF474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOperationDelegate", "NumberOperationDelegate\NumberOperationDelegate.csproj", "{0FA0DBA7-0DD6-4724-9197-DD3B91CA5983}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{1B5D478B-AE70-445E-9FDE-5C2D37BBF474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5D478B-AE70-445E-9FDE-5C2D37BBF474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5D478B-AE70-445E-9FDE-5C2D37BBF474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA0DBA7-0DD6-4724-9197-DD3B91CA5983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA0DBA7-0DD6-4724-9197-DD3B91CA5983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA0DBA7-0DD6-4724-9197-DD3B91CA5983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA0DBA7-0DD6-4724-9197-DD3B91CA5983}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

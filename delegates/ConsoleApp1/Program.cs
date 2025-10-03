@@ -2,28 +2,27 @@
 
 namespace ConsoleApp1
 {
-	internal class Program
-	{
-		static void Main(string[] args)
-		{
-			Console.WriteLine(Sum(new int[] { 3, 1, 623, 52, 1, 5, 7, 9, 66 }, x => x % 2 == 0));
-		} 
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Sum(new int[] { 1, 2, 3,3,453,2,2,1,4 }, x =>x % 2 == 0));
+        }
 
-		static int Sum(int[] numbers, IsEqual func)
-		{
-			int result = 0;
+        public static int Sum(int[] array, Func<int,bool> isEven)
+        {
+            int sum = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (isEven(array[i]))
+                {
+                    sum += array[i];
+                }
+            }
 
-			foreach (var item in numbers)
-			{
-				if (func(item))
-					result += item;	
-			}
-			return result;
-		}
-		delegate bool IsEqual(int x);
+            return sum;
+        }
+    }
 
-		delegate int Operation(int a, int b);
-
-	 
-	}
+    delegate bool IsEven(int a);
 }
