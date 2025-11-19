@@ -1,5 +1,5 @@
 ﻿int x = 0;
-object locker = new();  // объект-заглушка
+object locker = new();
 
 for (int i = 1; i < 6; i++)
 {

@@ -16,4 +16,4 @@ static void Continuation(Task<int> t)
 {
     Console.WriteLine($"Continue task Id #{Task.CurrentId}. Thread Id #{Thread.CurrentThread.ManagedThreadId}");
     Console.WriteLine("Result from previous operation: " + t.Result);
-}
+}  

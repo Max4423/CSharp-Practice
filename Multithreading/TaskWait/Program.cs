@@ -26,3 +26,33 @@ static void MyTask2()
    Thread.Sleep(3000);
    Console.WriteLine("MyTask: CurrentId" + Task. CurrentId + " завершено. ");
 }
+
+Console.WriteLine("==============================");
+
+Console.WriteLine("Main Starts");
+// создаем задачу
+Task task12 = new Task(() =>
+{
+    Console.WriteLine("Task Starts");
+    Thread.Sleep(1000);
+    Console.WriteLine("Task Ends");
+});
+task12.Start();  // запускаем задачу
+
+task12.Wait();   // ожидаем выполнения задачи
+
+Console.WriteLine("==============================");
+
+
+var outer =  Task.Factory.StartNew(() => 
+{
+    Console.WriteLine("Outer task starting...");
+    var inner =  Task.Factory.StartNew(() =>  
+    {
+        Console.WriteLine("Inner task starting...");
+        Thread.Sleep(2000);
+        Console.WriteLine("Inner task finished.");
+    }, TaskCreationOptions.AttachedToParent);
+});
+outer.Wait(); // ожидаем выполнения внешней задачи
+Console.WriteLine("End of Main");
