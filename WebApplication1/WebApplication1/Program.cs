@@ -1,50 +1,68 @@
-using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.AspNetCore.Rewrite;
+var builder = WebApplication.CreateBuilder();
+var app = builder.Build();
 
-namespace WebApplication1
+app.MapGet("/", () => "Hello World!");
+
+app.UseStatusCodePages();
+
+app.Run(async (context) =>
 {
-	public class Program
+	var path = context.Request.Path;
+	var method = context.Request.Method;
+
+	// 1. Пріоритетні маршрути (специфічні шляхи)
+	if (path == "/redirect")
 	{
-		public static void Main(string[] args)
-		{
-			var builder = WebApplication.CreateBuilder(args);
-
-			var app = builder.Build();
-
-			var rewriteOptions = new RewriteOptions().AddRedirect("tasks/(.*)", "todos/$1");
-			app.UseRewriter(rewriteOptions);
-
-			app.Use(async (context, next) =>
-			{
-				Console.WriteLine($"[{context.Request.Method} {context.Request.Path} {DateTime.Now:yyyy-MM-dd HH:mm:ss.fff} Started]");
-				await next(context);
-				Console.WriteLine($"[{context.Request.Method} {context.Request.Path} {DateTime.Now:yyyy-MM-dd HH:mm:ss.fff} Finished]");
-			});
-			var todos = new List<Todo>();
-			app.MapGet("/todos", () => todos);
-
-			app.MapGet("/todos/{id}", Results<Ok<Todo>, NotFound> (int id) =>
-			{
-				var targetTodo = todos.SingleOrDefault(t => id == t.Id);
-				return targetTodo is null
-				? TypedResults.NotFound()
-				: TypedResults.Ok(targetTodo);
-			});
-			app.MapPost("/todos", (Todo task) =>
-			{
-				todos.Add(task);
-				return TypedResults.Created("/todos/{id}", task);
-			});
-
-			app.MapDelete("/todos/{id}", (int id) =>
-			{
-				todos.RemoveAll(t => id == t.Id);
-				return TypedResults.NoContent();
-			});
-
-			app.Run();
-		}
+		context.Response.Redirect("https://gemini.google.com/");
+		return;
 	}
 
-	public record Todo(int Id, string Name, DateTime DueDate, bool IsCompleted);
+	if (path == "/time")
+	{
+		context.Response.ContentType = "text/html; charset=utf-8";
+		await context.Response.WriteAsync($"<h1>Current Time: {DateTime.Now}</h1>");
+		return;
+	}
+
+	if (path == "/postuser")
+	{
+		var form = context.Request.Form;
+		string name = form["name"];
+		string age = form["age"];
+		context.Response.ContentType = "text/html; charset=utf-8";
+		await context.Response.WriteAsync($"<div><p>Name: {name}</p><p>Age: {age}</p></div>");
+		return;
+	}
+
+	if (path == "/file")
+	{
+		context.Response.Headers.ContentDisposition = "attachment; filename=\"1.jpg\"";
+		await context.Response.SendFileAsync("C:\\Users\\miksi\\Pictures\\1.jpg");
+		return;
+	}
+
+	if (path == "/json")
+	{
+		await context.Response.WriteAsJsonAsync(new Person { Name = "Max", Age = 12 });
+		return;
+	}
+
+	if (path == "/index")
+	{
+		await context.Response.SendFileAsync("html/index.html");
+		return;
+	}
+
+	context.Response.ContentType = "text/html; charset=utf-8";
+	await context.Response.WriteAsync($"<h1>Path: '{path}' at {DateTime.Now}</h1>");
+	await context.Response.WriteAsync($"<h2>Method: {method}</h2>");
+	await context.Response.WriteAsync("<p><a href='/file'>Download image</a> | <a href='/json'>View JSON</a></p>");
+});
+
+app.Run();
+
+public record Person
+{
+	public string Name { get; init; }
+	public int Age { get; init; }
 }
