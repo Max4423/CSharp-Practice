@@ -115,7 +115,7 @@ async Task UpdatePerson(HttpRequest request, HttpResponse response)
 		}
 		else
 		{
-			throw new Exception("Некорректные данные");
+			throw new Exception("Incorrect data");
 		}
 	}
 	catch (Exception)
