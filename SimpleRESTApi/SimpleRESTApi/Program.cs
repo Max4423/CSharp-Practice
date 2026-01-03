@@ -42,8 +42,8 @@ app.Run(async (context) =>
 	}
 	else
 	{
-		response.StatusCode = 404;
-		await response.WriteAsync("Not Found");
+		response.ContentType = "text/html; charset=utf-8";
+		await response.SendFileAsync("html/index.html");
 	}
 
 });
